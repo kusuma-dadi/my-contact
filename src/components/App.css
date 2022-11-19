@@ -1,0 +1,51 @@
+/* body {
+  background-color: rgb(0, 183, 255);
+} */
+
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.search input {
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+img.image {
+  font-size: x-large;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+h1 {
+  /* text-align: center; */
+  /* color: blueviolet; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  /* font-size: 350%; */
+}
+/* 
+
+h2 {
+ color: rgb(233, 114, 154);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 200%;
+}
+
+h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 250%;
+}
+ */
